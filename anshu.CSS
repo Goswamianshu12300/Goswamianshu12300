@@ -1,0 +1,28 @@
+.a1{
+    height: 455px;
+    width: 425px;
+    text-align: center;
+    background-color: gray;
+    float: left;
+
+
+}
+#a2{
+    height: 455px;
+    width: 430px;
+    text-align: center;
+    background-color: darksalmon;
+    float: left;
+    margin-left:45px;
+}
+.a3{
+    height: 455px;
+    width: 430px;
+    text-align: center;
+    background-color: mediumaquamarine;
+    float: left;
+    margin-left: 55px;
+}
+
+
+
